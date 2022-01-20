@@ -1,0 +1,35 @@
+body {
+    background-color: yellow;
+
+}
+
+/* h1 {
+    color: red;
+    align-items: center;
+} */
+
+.topdiv { text-align: center;
+    border-style: dotted;
+    font-size: 20pt;
+}
+
+.picdiv {
+    padding: 10pt;
+    text-align: center;
+    font-family: helvetica;
+    font-size: 14pt;
+    color: rgba(3, 3, 3, 0.945);
+    
+}
+
+.menudiv {
+    color:rgb(101, 90, 207);
+    text-align: start;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: darkgray;
+    color: white;
+  }
