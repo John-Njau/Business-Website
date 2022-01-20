@@ -25,6 +25,7 @@ body {
 .menudiv {
     color:rgb(101, 90, 207);
     text-align: start;
+    margin: 10px;
 }
 
 footer {
